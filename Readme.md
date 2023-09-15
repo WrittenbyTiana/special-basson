@@ -1,4 +1,5 @@
 # My Journey into Data Analytics
+
 The world is evolving quickly, so keeping up with the times is crucial. For this reason, I've excitingly decided to try a brand-new career path. I want to share my journey and the reason behind this bold move. Our world moves quickly, so we must constantly adapt and upskill.
 
 As an operations associate, I find myself yearning for a new challenge and the opportunity to work in a field that is shaping the future. Data plays an important role in operations, my role as an operations associate already exposed me to data analysis and reporting, hence, the decision to dive into the world of Data Analytics, Little did I know that this decision would set me on an exciting path of personal growth, learning, and transformation.
